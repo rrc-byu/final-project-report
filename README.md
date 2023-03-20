@@ -11,7 +11,6 @@ The report is due by April 18, 2023.
 ## Submission
 The report should be pushed to the [final project report repo](https://github.com/rrc-byu/final-project-report) in the `rrc-byu` group.
 The report should be formatted as a .pdf.
-If you would prefer another format, just ask your project liasion (Taylor Paskett, tjpa@rincon.com).
 
 ## Requirements
 The report should consist of at least the following sections:
@@ -40,7 +39,7 @@ The results section should contain images and graphs that help convey your resul
 ### Recommendations
 This section should contain your final recommendations to RRC based on your experiments.
 
-## Other
+## Miscellaneous
 - You should cite any sources that need to be cited; how these are formatted is up to you.
 - Feel free to include images from the original papers you implemented (if they help communicate your methods).
 - Assume that your audience is a smart person who knows a little about machine learning. It should have enough technical depth to be interesting to an ML practitioner or data scientist, but simple enough that a non-expert could understand it (perhaps after some Googling). 
